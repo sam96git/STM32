@@ -1,3 +1,8 @@
+#Code by GVV Sharma
+#Author-Shyam Anand
+#December 24, 2024
+#released under GNU GPL
+
 #include <Arduino.h>
 void setup() {
   // initialize digital pin PB1 as an output.
