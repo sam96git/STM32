@@ -1,7 +1,7 @@
-#Code by GVV Sharma
-#Author-Shyam Anand
-#December 24, 2024
-#released under GNU GPL
+// Code by GVV Sharma
+// Author-Shyam Anand
+// December 24, 2024
+// released under GNU GPL
 
 #include<Arduino.h>
 void disp_7447(int D, int C, int B, int A)
